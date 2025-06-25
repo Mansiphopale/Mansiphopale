@@ -1,3 +1,4 @@
+![logo](https://github.com/Mansiphopale/Mansiphopale/blob/main/Data%20Science.png)
 <h1 align="center">Hi 👋, I'm Mansi Phopale</h1>
 <h3 align="center">A passionate Data Scientist .</h3>
 
