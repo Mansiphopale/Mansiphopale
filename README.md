@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mansiphopale/Mansiphopale/blob/main/Data%20Science%20(1).png)
 <h1 align="center">Hi , I'm Mansi Phopale</h1>
-<h3 align="center">A passionate Data Scientist .</h3>
+<h3 align="center"> Data Science Student </h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/F5n4WhC2CcIuptogVBdg7EfnG3Wmif18V0CSd50jlBI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/Y3V0ZS1naXJsLWhh/Y2tlci1vcGVyYXRp/bmctbGFwdG9wLWNh/cnRvb24tdmVjdG9y/LWljb24taWxsdXN0/cmF0aW9uLXBlb3Bs/ZS10ZWNobm9sb2d5/LWlzb2xhdGVkLWZs/YXRfMTM4Njc2LTk0/ODcuanBnP3NlbXQ9/YWlzX2h5YnJpZCZ3/PTc0MA">
 
